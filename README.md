@@ -1,9 +1,11 @@
-# Selenium_UI_Automation
+# Selenium_UI_Automation_POM
 ## Description:
-This Selenium UI Automatin Framework tests many different functionalities for various websites. Since I don't control nor maintain these websites, some tests might be broken as these webistes are being updated. But as of 4/5/2018, every test in this framework works fine!!!
+Without using POM, if 100 different scripts are using the same page element, all 100 pages must be updated with even a small change on  that element. 
+In Page Object Model(POM), each page is map to its own class. These clases then can be reused across the framework. 
+With the same scenario, now only the element in a specific class needs to be updated, not 100 different scripts.
 
-## Sameple Test Cases Covered:
-### Stackoverflow.com
+## Page Object Model
+### Why do we u
 * User_Can_ Navigate_ To_ HomePage
 * User_Can_Search_Job_With_Advanced_Search
 * Valid_User_Can_Login
