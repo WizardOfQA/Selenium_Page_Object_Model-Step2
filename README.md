@@ -3,10 +3,11 @@
 Now with all the functionalities implemented, this Selenium UI Automatin Framework will show how to structure and implements POM. Since I don't control nor maintain these websites, some tests might be broken as these webistes are being updated. But as of 4/14/2018, every test in this framework works fine!!!  
 This is the second part of the entire series of Selenium UI Test Automation.  
 
-### Roadmap for Selenium UI Test Automation Series:  
-1. Selenium_UI_Automation Without POM model      
-**2. Selenium_UI_Automation With POM**      
-3. Selenium_UI_Automation With Logging and Reporting Functionalities.(Extent Report)         
+### Roadmap for Selenium UI Test Automation Series:
+**1. Selenium_UI_Automation Without POM - Mainly Focus on Selenium API functionalities**  
+2. Selenium_UI_Automation With POM - How to structure and creating POM  
+3. Selenium_UI_Automation With Logging and Reporting Functionalities.(Extent Report) - How to Logging and Reporting using Extent Reports in a Selenium framework.      
+
 I might add more series as needed to showcase UI Automation with Selenium.  
 
 ## Page Object Model
