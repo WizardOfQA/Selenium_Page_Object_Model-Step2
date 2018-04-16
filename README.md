@@ -4,10 +4,10 @@ Now with all the functionalities implemented, this Selenium UI Automatin Framewo
 This is the second part of the entire series of Selenium UI Test Automation.  
 
 ### Roadmap for Selenium UI Test Automation Series:  
-  1. Selenium_UI_Automation Without POM model    
-**2. Selenium_UI_Automation With POM**    
-  3. Selenium_UI_Automation With Logging and Reporting Functionalities.(Extent Report)      
-I might add more series as needed to showcase UI Automation with Selenium.
+1. Selenium_UI_Automation Without POM model      
+**2. Selenium_UI_Automation With POM**      
+3. Selenium_UI_Automation With Logging and Reporting Functionalities.(Extent Report)         
+I might add more series as needed to showcase UI Automation with Selenium.  
 
 ## Page Object Model
 ### Background:
